@@ -1,4 +1,4 @@
-<img src="https://github.com/Pedro-ETS/Pedro-ETS/blob/main/images/Banner2.png" alt="Fullstack Developer Banner" width="100%" height="300"/>
+<img src="https://github.com/Pedro-ETS/Pedro-ETS/blob/main/images/Banner2.png" alt="Fullstack Developer Banner" width="100%" height="230"/>
 
 ## <div align="center">¡Hola! 👋 soy Pedro. ¡Encantado de conocerte!</div>
 
