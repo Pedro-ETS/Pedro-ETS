@@ -1,4 +1,4 @@
-<img src="https://la35.net/assets/img/mern.png" alt="Fullstack Developer Banner" width="100%" height="300"/>
+<img src="https://github.com/Pedro-ETS/Pedro-ETS/blob/main/images/BANNER.png" alt="Fullstack Developer Banner" width="100%" height="300"/>
 
 ## <div align="center">¡Hola! 👋 soy Pedro. ¡Encantado de conocerte!</div>
 
