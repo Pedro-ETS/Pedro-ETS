@@ -10,5 +10,6 @@ Inicié mi carrera en Ingeniería en Sistemas Computacionales con especializaci�
 ![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js&style=flat) ![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express&style=flat) ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=flat) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-green?logo=mongodb&style=flat) ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&style=flat) ![Jest](https://img.shields.io/badge/Jest-red?logo=jest&style=flat) ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&style=flat) ![Figma](https://img.shields.io/badge/Figma-purple?logo=figma&style=flat) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?logo=google-cloud&style=flat) ![Vite](https://img.shields.io/badge/Vite-darkgreen?logo=vite&style=flat) ![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel&style=flat)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Pedro-ETS&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-ETS&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
